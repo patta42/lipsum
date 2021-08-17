@@ -1,3 +1,5 @@
+# ⚠ This repository is not maintained any more. Please move on to <https://github.com/PhelypeOleinik/lipsum> ⚠
+
 # lipsum
 150 paragraphs of Lorem ipsum dummy text for LaTeX.
 
